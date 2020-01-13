@@ -7,6 +7,6 @@ $(document).ready(function(){
 		$("#contact-right").html(name + "<br>" + email + "<br>" + password);
 	});
 
-	/* Przejscia przy wczytywaniu strony */
+	/* Transition during page load */
 	$("p, h1, h2, h3, h4, a, img, form, button").hide().fadeIn(2000);
 });
