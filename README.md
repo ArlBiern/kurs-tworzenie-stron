@@ -10,4 +10,4 @@ This is one of my first websites which was made during "Kurs tworzenia stroin in
 * basic JS (jQuery usage).
 
 ## :busts_in_silhouette: Author
-* **Kombajn27** - check at [Github](https://github.com/Kombajn27)
+* **Ariel Biernacki** - check at [Github](https://github.com/arlbiern)
