@@ -1,6 +1,6 @@
 # :construction: Simple website :construction:
 
-**Check demo** at  [GitHub Pages](https://kombajn27.github.io/kurs-tworzenie-stron/) and **source code** at [GitHub project homepage](https://github.com/Kombajn27/kurs-tworzenie-stron).
+**Check demo** at  [GitHub Pages](https://arlbiern.github.io/kurs-tworzenie-stron/) and **source code** at [GitHub project homepage](https://github.com/Kombajn27/kurs-tworzenie-stron).
 
 This is one of my first websites which was made during "Kurs tworzenia stroin internetowych" course. 
 
